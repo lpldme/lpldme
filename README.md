@@ -21,7 +21,7 @@
 ```ts
 Languages:   JavaScript/TypeScript, SQL, Python
 Frontend:    React, Tanstack-X, Tailwind CSS
-Backend:     Node.js, Adonis.js, FastAPI
+Backend:     Adonis.js, FastAPI
 Infra:       Terraform, OpenTofu, GitHub Actions
 Testing:     Japa, Sinon.js, Jest, Vitest
 Design:      Figma, Storybook
