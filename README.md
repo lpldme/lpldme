@@ -13,6 +13,7 @@
 ### ✅ What I Do
 
 - ✏️ **[Eido](https://eido-edu.com)** - Eido helps you turn your lessons into a personalized learning plan.
+- 🤖 **AI Engineering**: CLI agent, tool calling, agent loops, evals etc.
   
 ---
 
