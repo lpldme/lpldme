@@ -14,6 +14,7 @@
 
 - ✏️ **[Eido](https://eido-edu.com)** - Eido helps you turn your lessons into a personalized learning plan.
 - 🤖 **AI Engineering**: CLI agent, tool calling, agent loops, evals etc.
+- 🧠 Learning [Go](https://go.dev/)
   
 ---
 
@@ -21,9 +22,10 @@
 
 ```ts
 Languages:   JavaScript/TypeScript, SQL, Python
-Frontend:    React, Tanstack-X, Tailwind CSS
+Frontend:    React, Tailwind CSS
 Backend:     Adonis.js, FastAPI
-Infra:       Terraform, OpenTofu, GitHub Actions
+Infra:       Terraform/OpenTofu, GitHub Actions, Ansible
+Cloud:       AWS
 Testing:     Japa, Sinon.js, Jest, Vitest
 Design:      Figma, Storybook
 ```
