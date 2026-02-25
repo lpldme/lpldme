@@ -25,7 +25,7 @@ Languages:   JavaScript/TypeScript, SQL, Python
 Frontend:    React, Tailwind CSS
 Backend:     Adonis.js, FastAPI
 Infra:       Terraform/OpenTofu, GitHub Actions, Ansible
-Cloud:       AWS
+Cloud:       AWS, GCP
 Testing:     Japa, Sinon.js, Jest, Vitest
 Design:      Figma, Storybook
 ```
